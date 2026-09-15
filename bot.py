@@ -1874,7 +1874,7 @@ class DDOSBot:
 
 
 if __name__ == "__main__":
-    BOT_TOKEN = "8959982939:AAH-LCoI5OyIOrPMry0CV2QedEFd2oUN6fQ"
+    BOT_TOKEN = "8955576866:AAHSsyWpZiTvTygPz9ak4gmqMEDZMM-fE-s"
 
     try:
         bot = DDOSBot(BOT_TOKEN)
